@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Keep google-services.json out of a PUBLIC repo (contains your Firebase project id).
+# Remove the line below if your repo is private and you don't mind it being tracked.
+app/google-services.json
